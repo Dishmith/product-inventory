@@ -1,0 +1,13 @@
+﻿{
+  "compilerOptions": {
+    "target": "ES2017",
+    "strict": true,
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "module": "ES2015",
+    "lib": ["ES2017", "DOM"],
+    "sourceMap": true,
+    "noEmitOnError": true
+  },
+  "include": ["src/**/*.ts"]
+}
